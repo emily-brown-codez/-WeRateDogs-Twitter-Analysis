@@ -2,8 +2,7 @@
 
  - This project took a deep dive look into the @WeRateDogs Twitter account.  Almost 2000 tweets were analyzed from this Twitter account.
 
- - Setup:
-To run the following application, you would need these prerequisites.
+ - Setup: To run the following application, you would need these prerequisites.
     - Jupyter Notebook
     - Python 3.7.X
 
