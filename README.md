@@ -4,7 +4,6 @@
 
  - Setup:
 To run the following application, you would need these prerequisites.
-
     - Jupyter Notebook
     - Python 3.7.X
 
